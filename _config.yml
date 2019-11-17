@@ -36,6 +36,7 @@ plugins:
 header_pages:
   - rooms.md
   - about.md
+  - faq.md
   - contact.md
 
 show_excerpts: true

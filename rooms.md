@@ -4,7 +4,14 @@ title: Les chambres
 permalink: /rooms/
 ---
 
-<iframe width="560" height="560" src="https://www.youtube.com/embed/hPJS2h1mEmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 500px;max-height:500px">
+  <div style="position:relative;padding-top:100%;">
+    <iframe src="https://www.youtube.com/embed/kMc9YeWu29E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
+# Présentation
 
 La Geek House Sud Paris ouvrira ses portes en Décembre 2019/Janvier 2020 et pourra accueillir jusqu'à 6 nouveaux résidents.
 

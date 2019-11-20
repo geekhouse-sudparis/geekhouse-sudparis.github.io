@@ -6,7 +6,7 @@ permalink: /rooms/
 
 <div style="max-width: 500px;max-height:500px">
   <div style="position:relative;padding-top:100%;">
-    <iframe src="https://www.youtube.com/embed/kMc9YeWu29E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+    <iframe src="https://www.youtube.com/embed/b10BnNAb_Zg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>

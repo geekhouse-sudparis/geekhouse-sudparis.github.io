@@ -40,7 +40,7 @@ permalink: /faq/
 
 <blockquote style="color: #555; border-left-color: #555">
   <p>En effet, la Geek House est plus chère qu'un studio car elle est entièrement meublée et est équipée d'une cuisine, d'une machine à laver, d'un sèche-linge et de toutes les dernières consoles de jeux vidéo.</p>
-  <p>À la différence d'un studio, vous aurez l'occasion de faire des parties de jeux vidéo ou de jeux de plateau avec vos collocataires.</p>
+  <p>À la différence d'un studio, vous aurez l'occasion de faire des parties de jeux vidéo ou de jeux de plateau avec vos colocataires.</p>
 </blockquote>
 
 # Puis-je venir seul ?

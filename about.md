@@ -4,7 +4,7 @@ title: À propos
 permalink: /about/
 ---
 
-La GeekHouse est un concept OpenSource originellement inventé par [Pha](https://github.com/pha). Il s'agit d'une collocation dont le but est de rassembler des esprits créatifs ayant les mêmes centres d'intérêts.
+La GeekHouse est un concept OpenSource originellement inventé par [Pha](https://github.com/pha). Il s'agit d'une colocation dont le but est de rassembler des esprits créatifs ayant les mêmes centres d'intérêts.
 
 Les Geek Houses sont indépendantes les unes des autres et sont gérée des des personnes différentes.
 

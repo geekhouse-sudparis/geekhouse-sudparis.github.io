@@ -27,6 +27,7 @@ url: "https://geekhouse-sudparis.github.io" # the base hostname & protocol for y
 twitter_username: geekhouseparis1
 facebook_username: geekhouseparis1
 github_username: geekhouse-sudparis
+lang: fr_FR
 
 # Build settings
 theme: minima

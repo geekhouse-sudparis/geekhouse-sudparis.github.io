@@ -33,20 +33,14 @@ permalink: /faq/
 # Combien coûte le loyer ?
 
 <blockquote style="color: #555; border-left-color: #555">
-  <p>Le loyer n'est pas encore fixé. Il sera aux alentours de 350 € / mois + 50 € de charge (Internet fibre optique + eau + électricité + compte Netflix partagé) par personne. Pour un couple, il faudra donc compter environ 700 € de loyer + 100 € de charge.</p>
+  <p>Le loyer est de 620 € / mois par chambre + 70 € de charges (Internet fibre optique + eau + électricité + compte Netflix partagé) par personne. Pour un couple, il faudra donc compter 760 € de loyer charges comprises. Pour une personne seule, il faudra compter 690 € de loyer charges comprises.</p>
 </blockquote>
 
-# C'est beaucoup plus cher qu'un studio dans le même quartier !
+# C'est plus cher qu'un studio dans le même quartier !
 
 <blockquote style="color: #555; border-left-color: #555">
   <p>En effet, la Geek House est plus chère qu'un studio car elle est entièrement meublée et est équipée d'une cuisine, d'une machine à laver, d'un sèche-linge et de toutes les dernières consoles de jeux vidéo.</p>
   <p>À la différence d'un studio, vous aurez l'occasion de faire des parties de jeux vidéo ou de jeux de plateau avec vos colocataires.</p>
-</blockquote>
-
-# Puis-je venir seul ?
-
-<blockquote style="color: #555; border-left-color: #555">
-  <p>Pour le moment, les chambres ne peuvent se réserver qu'à deux. Nous conseillons aux résidents de venir en couple ou avec un camarade de classe.</p>
 </blockquote>
 
 # Puis-je apporter mon animal de compagnie ?
@@ -64,7 +58,7 @@ permalink: /faq/
 # Puis-je venir à l'essai ?
 
 <blockquote style="color: #555; border-left-color: #555">
-  <p>Oui, s'il y reste des chambres disponibles, vous pouvez louer une chambre à la nuit.</p>
+  <p>Oui, s'il y reste des chambres disponibles, vous pouvez venir rester dormir une nuit pour voir si vous vous y sentez bien.</p>
 </blockquote>
 
 # Puis-je héberger des amis dans ma chambre ?

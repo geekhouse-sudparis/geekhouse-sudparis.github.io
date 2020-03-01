@@ -10,4 +10,6 @@ Les Geek Houses sont indépendantes les unes des autres et sont gérée des des 
 
 La Geek House Sud Paris est gérée par [n-studio](https://github.com/n-studio), un développeur web otaku qui a vécu plusieurs années au Japon.
 
-La Geek House Sud Paris ouvrira ses portes en Décembre 2019/Janvier 2020 et pourra accueillir jusqu'à 6 nouveaux résidents.
+Elle est située à Chevilly-Larue, tout prêt de Villejuif et Kremlin-Bicêtre, ce qui lui donne un emplacement idéal pour les étudiants d'EFREI, Epita, Epitech.
+
+La Geek House Sud Paris ouvrira ses portes en Mars 2020 et pourra accueillir jusqu'à 6 nouveaux résidents.

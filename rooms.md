@@ -20,6 +20,8 @@ Chaque chambre dispose d'un lit double ou 2 lits simples selon si vous venez en 
 
 La GeekHouse est située juste à côté d'un arrêt de bus qui vous emmènera au campus d'Epitech en 25 minutes, et à l'EFREI en 23 minutes.
 
+![Plan]({{ site.url }}{{ site.baseurl }}/assets/plan.png)
+
 # Chambre 00
 
 *En cours de décoration*

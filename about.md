@@ -4,7 +4,7 @@ title: À propos
 permalink: /about/
 ---
 
-La GeekHouse est un concept OpenSource originellement inventé par [Pha](https://github.com/pha). Il s'agit d'une colocation dont le but est de rassembler des esprits créatifs ayant les mêmes centres d'intérêts.
+La GeekHouse (ギークハウス) est un concept OpenSource originellement inventé par [Pha](https://github.com/pha). Il s'agit d'une colocation dont le but est de rassembler des esprits créatifs ayant les mêmes centres d'intérêts.
 
 Les Geek Houses sont indépendantes les unes des autres et sont gérées par des personnes différentes.
 
@@ -19,3 +19,6 @@ La Geek House Sud Paris ouvre ses portes en Mars 2020 et pourra accueillir jusqu
 ![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/living-001.jpg)
 ![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/living-002.jpg)
 ![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/living-003.jpg)
+
+[Geek House Project (wikipedia JA)](https://ja.wikipedia.org/wiki/ギークハウスプロジェクト)
+[Geek House Official List Webpage](https://geekhouse.github.io/rooms/)

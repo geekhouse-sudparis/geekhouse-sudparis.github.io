@@ -20,5 +20,5 @@ La Geek House Sud Paris ouvre ses portes en Mars 2020 et pourra accueillir jusqu
 ![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/living-002.jpg)
 ![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/living-003.jpg)
 
-[Geek House Project (wikipedia JA)](https://ja.wikipedia.org/wiki/ギークハウスプロジェクト)
-[Geek House Official List Webpage](https://geekhouse.github.io/rooms/)
+* [Geek House Project (wikipedia JA)](https://ja.wikipedia.org/wiki/ギークハウスプロジェクト)
+* [Geek House Official List Webpage](https://geekhouse.github.io/rooms/)

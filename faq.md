@@ -33,7 +33,7 @@ permalink: /faq/
 # Combien coûte le loyer ?
 
 <blockquote style="color: #555; border-left-color: #555">
-  <p>Le loyer est de 620 € / mois par chambre + 70 € de charges (Internet fibre optique + eau + électricité + compte Netflix partagé) par personne. Pour un couple, il faudra donc compter 760 € de loyer charges comprises. Pour une personne seule, il faudra compter 690 € de loyer charges comprises.</p>
+  <p>Le loyer est de 610€ (chambre 00) ou 690€ (chambre 01, 02) par mois par chambre + 70 € de charges (Internet fibre optique + eau + électricité + compte Netflix partagé) par personne. Pour un couple, il faudra donc compter 750€ (chambre 00) ou 830€ (chambre 01, 02) de loyer charges comprises. Pour une personne seule, il faudra compter 680€ (chambre 00) ou 760€ (chambre 01, 02) de loyer charges comprises.</p>
 </blockquote>
 
 # C'est plus cher qu'un studio dans le même quartier !

@@ -22,7 +22,7 @@ La chambre 01 est prête ! Vous pouvez dès à présent emménager !
 * Stationnement disponible
 * Couple OK
 * Chat OK
-* Loyer: 620&#8364; (+ 70&#8364; charges par personne)
+* Loyer: 690&#8364; (+ 70&#8364; charges par personne)
 * Disponibilité: maintenant
 
 **Inscription:**

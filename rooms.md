@@ -6,9 +6,7 @@ permalink: /rooms/
 
 # Présentation
 
-La Geek House Sud Paris ouvre ses portes en Mars 2020 et pourra accueillir jusqu'à 6 nouveaux résidents.
-
-Chaque chambre accueillera deux personnes, vous pouvez donc venir en couple ou avec un(e) ami(e).
+La Geek House Sud Paris ouvre ses portes en Mars 2020 et est à la recherche de nouveaux résidents.
 
 L'appartement sera équipé de consoles de jeux, une tv 65 pouces, des jeux de plateaux, des manga et des comics.
 
@@ -16,7 +14,7 @@ Chaque soir vous pourrez organiser des soirées ciné, tournois de jeux vidéo, 
 
 L'appartement dispose d'une cuisine, d'un salon, de 3 chambres, de 2 salles de bain et 2 WC.
 
-Chaque chambre dispose d'un lit double ou 2 lits simples selon si vous venez en couple ou en duo d'amis.
+Chaque chambre dispose d'un lit double ou de 2 lits simples.
 
 La GeekHouse est située juste à côté d'un arrêt de bus qui vous emmènera au campus d'Epitech en 25 minutes, et à l'EFREI en 23 minutes.
 

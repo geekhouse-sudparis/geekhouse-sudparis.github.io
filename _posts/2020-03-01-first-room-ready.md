@@ -17,7 +17,7 @@ La chambre 01 est prête ! Vous pouvez dès à présent emménager !
 * Surface de la chambre: 10.66&#13217;
 * Surface du salon: 26.74&#13217;
 * Cuisine équipée, lave-linge, sèche-linge, baignoire, douche, 2 WC, balcon
-* TV 65", PS4, Xbox ONE, Switch, Internet FTTH, abonnement Netflix
+* TV 65", PS4, Xbox ONE, Switch, Internet FTTH, abonnement Netflix, abonnement Prime video
 * Stationnement disponible
 * Chat OK
 * Loyer: 690&#8364; (+ 70&#8364; charges par personne)

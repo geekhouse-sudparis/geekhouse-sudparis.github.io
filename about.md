@@ -16,9 +16,17 @@ La Geek House Sud Paris ouvre ses portes en Mars 2020 et pourra accueillir jusqu
 
 [Réservez votre chambre ou demandez plus d'info](/home/contact)
 
-![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/living-001.jpg)
-![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/living-002.jpg)
-![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/living-003.jpg)
+![Salon]({{ site.url }}{{ site.baseurl }}/assets/living-001.jpg)
+![Salon]({{ site.url }}{{ site.baseurl }}/assets/living-002.jpg)
+![Salon]({{ site.url }}{{ site.baseurl }}/assets/living-003.jpg)
+![Computer]({{ site.url }}{{ site.baseurl }}/assets/computer-001.jpg)
+![Kitchen]({{ site.url }}{{ site.baseurl }}/assets/kitchen-001.jpg)
+![Bathroom 00]({{ site.url }}{{ site.baseurl }}/assets/bathroom00-001.jpg)
+![Bathroom 00]({{ site.url }}{{ site.baseurl }}/assets/bathroom00-002.jpg)
+![Bathroom 01]({{ site.url }}{{ site.baseurl }}/assets/bathroom01-001.jpg)
+![Bathroom 01]({{ site.url }}{{ site.baseurl }}/assets/bathroom01-002.jpg)
+![Toilet 00]({{ site.url }}{{ site.baseurl }}/assets/toilet00-001.jpg)
+![Toilet 01]({{ site.url }}{{ site.baseurl }}/assets/toilet01-001.jpg)
 
 * [Geek House Project (wikipedia JA)](https://ja.wikipedia.org/wiki/ギークハウスプロジェクト)
 * [Geek House Official List Webpage](https://geekhouse.github.io/rooms/)

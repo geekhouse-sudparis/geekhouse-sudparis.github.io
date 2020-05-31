@@ -68,7 +68,8 @@ permalink: /faq/
   <ul>
     <li>Vous devez être présent les nuits où votre invité est là.</li>
     <li>Votre invité ne doit pas déranger les autres résidents.</li>
-    <li>Votre invité ne peut pas rester plus de 3 jours d'affilé.</li>
+    <li>Votre invité ne peut pas rester plus de 3 jours d'affilé sans charges additionnelles.</li>
+    <li>Si vous avez l'accord des autres résidents, votre invité peut rester plus de 3 jours d'affilé avec une augmentation des charges du mois en cours.</li>
   </ul>
 </blockquote>
 

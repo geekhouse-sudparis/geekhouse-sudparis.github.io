@@ -1,26 +1,24 @@
 ---
 layout: post
-title: "La chambre 01 est prête !"
-date:   2020-03-01 16:18:00 +0100
+title: "La chambre 00 est prête !"
+date:   2020-05-11 12:51:00 +0100
 categories: site update
 ---
-La chambre 01 est prête ! Vous pouvez dès à présent emménager !
+La chambre 00 est prête ! Vous pouvez dès à présent emménager !
 
-![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/room01-001.jpg)
-![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/room01-002.jpg)
-![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/room01-003.jpg)
+![Chambre 00]({{ site.url }}{{ site.baseurl }}/assets/room00-001.jpg)
 
-![Plan]({{ site.url }}{{ site.baseurl }}/assets/plan-room01.png)
+![Plan]({{ site.url }}{{ site.baseurl }}/assets/plan-room00.png)
 
 **Info:**
 
-* Surface de la chambre: 10.66&#13217;
+* Surface de la chambre: 9&#13217;
 * Surface du salon: 26.74&#13217;
 * Cuisine équipée, lave-linge, sèche-linge, baignoire, douche, 2 WC, balcon
 * TV 65", PS4, Xbox ONE, Switch, Internet FTTH, abonnement Netflix, abonnement Prime video
 * Stationnement disponible
 * Chat OK
-* Loyer: 620&#8364; (+ 70&#8364; charges par personne)
+* Loyer: 590&#8364; (+ 70&#8364; charges par personne)
 * Disponibilité: maintenant
 
 **Inscription:**

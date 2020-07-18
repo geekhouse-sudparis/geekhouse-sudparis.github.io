@@ -22,16 +22,17 @@ La GeekHouse est située juste à côté d'un arrêt de bus qui vous emmènera a
 
 # Chambre 00
 
+[Disponible !!]({{ site.baseurl }}{% post_url 2020-05-11-second-room-ready %})
 ![Room 00]({{ site.url }}{{ site.baseurl }}/assets/room00-001.jpg)
 
 # Chambre 01
 
-[Disponible !!]({{ site.baseurl }}{% post_url 2020-03-01-first-room-ready %})  
+[Disponible !!]({{ site.baseurl }}{% post_url 2020-03-01-first-room-ready %})
 ![Room 01]({{ site.url }}{{ site.baseurl }}/assets/room01-001.jpg)
 
 # Chambre 02
 
-*En cours de décoration*  
+*En cours de décoration*
 ![Room 02]({{ site.url }}{{ site.baseurl }}/assets/room02-001.jpg)
 
 # Réservation

@@ -2,7 +2,7 @@
 layout: post
 title: "La chambre 00 est prête !"
 date:   2020-05-11 12:51:00 +0100
-categories: site update
+categories: site update availabilities
 ---
 La chambre 00 est prête ! Vous pouvez dès à présent emménager !
 

@@ -1,10 +1,9 @@
 ---
-layout: post
-title: "La chambre 01 est prête !"
-date:   2020-03-01 16:18:00 +0100
-categories: site update availabilities
+layout: page
+title: Chambre 01
+permalink: /room-01/
 ---
-La chambre 01 est prête ! Vous pouvez dès à présent emménager !
+Bienvenue dans la chambre 01 !
 
 ![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/room01-001.jpg)
 ![Chambre 01]({{ site.url }}{{ site.baseurl }}/assets/room01-002.jpg)
@@ -21,6 +20,7 @@ La chambre 01 est prête ! Vous pouvez dès à présent emménager !
 * Stationnement disponible
 * Chat OK
 * Loyer: 620&#8364; (+ 70&#8364; charges par personne)
+* Disponibilité: 1er Août 2021
 
 **Inscription:**
 

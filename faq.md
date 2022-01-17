@@ -32,15 +32,10 @@ permalink: /faq/
 
 # Combien coûte le loyer ?
 
-<blockquote style="color: #555; border-left-color: #555">
-  <p>Le loyer est de 590€ (chambre 00) ou 620€ (chambre 01, 02) par mois par chambre + 70 € de charges (Internet fibre optique + eau + électricité + comptes Netflix et Prime video partagés). Il faudra donc compter 660€ (chambre 00) ou 690€ (chambre 01, 02) de loyer charges comprises.</p>
-</blockquote>
-
-# C'est plus cher qu'un studio dans le même quartier !
+## Pour 4 locataires (colocation solidaire)
 
 <blockquote style="color: #555; border-left-color: #555">
-  <p>En effet, la Geek House est plus chère qu'un studio car elle est entièrement meublée et est équipée d'une cuisine, d'une machine à laver, d'un sèche-linge et de toutes les dernières consoles de jeux vidéo.</p>
-  <p>À la différence d'un studio, vous aurez l'occasion de faire des parties de jeux vidéo ou de jeux de plateau avec vos colocataires.</p>
+  <p>Si vous venez vivre à 4 dans la Geek House, le loyer est de 537,50€ chacun, charges comprises (chauffage central + eau).</p>
 </blockquote>
 
 # Puis-je apporter mon animal de compagnie ?
@@ -53,12 +48,6 @@ permalink: /faq/
 
 <blockquote style="color: #555; border-left-color: #555">
   <p>Malheureusement l'appartement est exclusivement non fumeur.</p>
-</blockquote>
-
-# Puis-je venir à l'essai ?
-
-<blockquote style="color: #555; border-left-color: #555">
-  <p>Oui, s'il y reste des chambres disponibles, vous pouvez venir rester dormir une nuit pour voir si vous vous y sentez bien.</p>
 </blockquote>
 
 # Puis-je héberger des amis dans ma chambre ?

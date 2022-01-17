@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "La Geek House se libère !"
-date:   2022-04-17 15:44:00 +0200
+title: "4 chambres disponibles le 3 Avril 2022 !"
+date:   2022-01-17 12:44:00 +0200
 categories: availabilities
 ---
-Bonne année 2022 à tous !
-
+Bonne année 2022 à toutes et à tous 🥳🎉 !
 Les 4 chambres de la Geek House se libèrent le 3 Avril 2022 !
+
+La Geek House est disponible dès le 3 Avril 2022 !
+Il y a 4 chambres disponibles (la salle `?` est temporairement devenue une chambre).
+
+Le loyer est de 2150€, soit 537,50€ par personne (charges comprises).
 
 Vous pouvez dès maintenant prendre rendez-vous pour une visite et nous envoyer votre dossier.
 

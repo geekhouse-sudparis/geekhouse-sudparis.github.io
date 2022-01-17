@@ -11,15 +11,15 @@ Bienvenue dans la chambre 02 !
 
 **Info:**
 
-* Surface de la chambre: 10.66&#13217;
-* Surface du salon: 26.74&#13217;
+* Surface de la chambre: 10.64&#13217;
+* Surface du salon: 26.85&#13217;
 * Cuisine équipée, lave-linge, sèche-linge, baignoire, douche, 2 WC, balcon
-* TV 65", PS4, Xbox ONE, Switch, Internet FTTH, abonnement Netflix, abonnement Prime video
+* TV 65", abonnement Prime video
 * Stationnement disponible
-* Chat OK
-* Loyer: 620&#8364; (+ 70&#8364; charges par personne)
-* Disponibilité: 1er Août 2021
+* Chat 🐱 OK
+* Loyer: 537,50&#8364; (charges comprises)
+* Disponibilité: 3 Avril 2022
 
 **Inscription:**
 
-Envoyez-nous un email à [geekhouse.sudparis@gmail.com](mailto:geekhouse.sudparis@gmail.com?subject=[GeekHouse] Inscription Chambre 01) ou un DM à [@GeekHouseParis1](https://twitter.com/GeekHouseParis1)
+Envoyez-nous un email à [geekhouse.sudparis@gmail.com](mailto:geekhouse.sudparis@gmail.com?subject=[GeekHouse] Inscription Chambre 02) ou un DM à [@GeekHouseParis1](https://twitter.com/GeekHouseParis1)

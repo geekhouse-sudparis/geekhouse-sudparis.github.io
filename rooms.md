@@ -6,11 +6,9 @@ permalink: /rooms/
 
 # Présentation
 
-La Geek House Sud Paris ouvre ses portes en Mars 2020 et est à la recherche de nouveaux résidents.
+La Geek House Sud Paris est à la recherche de nouveaux résidents.
 
-L'appartement sera équipé de consoles de jeux, une tv 65 pouces, des jeux de plateaux, des manga et des comics.
-
-Chaque soir vous pourrez organiser des soirées ciné, tournois de jeux vidéo, parties de jeux de plateau avec les autres résidents.
+L'appartement est équipé d'une tv 65 pouces, d'autres équipements Hi-Tech peuvent être fournis à la demande !
 
 L'appartement dispose d'une cuisine, d'un salon, de 3 chambres, de 2 salles de bain et 2 WC.
 
@@ -22,18 +20,22 @@ La GeekHouse est située juste à côté d'un arrêt de bus qui vous emmènera a
 
 # Chambre 00
 
-[Disponible le 1er Août 2021](/home/room-00)
+[Disponible le 3 Avril 2022](/home/room-00)
 ![Room 00]({{ site.url }}{{ site.baseurl }}/assets/room00-001.jpg)
 
 # Chambre 01
 
-[Disponible le 1er Août 2021](/home/room-01)
+[Disponible le 3 Avril 2022](/home/room-01)
 ![Room 01]({{ site.url }}{{ site.baseurl }}/assets/room01-001.jpg)
 
 # Chambre 02
 
-[Disponible le 1er Août 2021](/home/room-02)
+[Disponible le 3 Avril 2022](/home/room-02)
 ![Room 02]({{ site.url }}{{ site.baseurl }}/assets/room02-001.jpg)
+
+# Chambre 03
+
+[Disponible le 3 Avril 2022](/home/room-03)
 
 # Réservation
 

@@ -13,14 +13,14 @@ Bienvenue dans la chambre 01 !
 
 **Info:**
 
-* Surface de la chambre: 10.66&#13217;
-* Surface du salon: 26.74&#13217;
+* Surface de la chambre: 10.04&#13217;
+* Surface du salon: 26.85&#13217;
 * Cuisine équipée, lave-linge, sèche-linge, baignoire, douche, 2 WC, balcon
-* TV 65", PS4, Xbox ONE, Switch, Internet FTTH, abonnement Netflix, abonnement Prime video
+* TV 65", abonnement Prime video
 * Stationnement disponible
-* Chat OK
-* Loyer: 620&#8364; (+ 70&#8364; charges par personne)
-* Disponibilité: 1er Août 2021
+* Chat 🐱 OK
+* Loyer: 537,50&#8364; (charges comprises)
+* Disponibilité: 3 Avril 2022
 
 **Inscription:**
 

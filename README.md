@@ -1,6 +1,6 @@
 # Homepage
 
-[https://geekhouse-sudparis.github.io/home](https://geekhouse-sudparis.github.io/home)
+[https://geekhouse-sudparis.github.io/](https://geekhouse-sudparis.github.io/)
 
 # Run
 

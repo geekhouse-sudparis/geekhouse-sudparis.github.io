@@ -14,7 +14,7 @@ Elle est située à Chevilly-Larue, tout prêt de Villejuif et Kremlin-Bicêtre,
 
 La Geek House Sud Paris ouvre ses portes en Mars 2020 et pourra accueillir jusqu'à 3 nouveaux résidents.
 
-[Réservez votre chambre ou demandez plus d'info](/home/contact)
+[Réservez votre chambre ou demandez plus d'info](/contact)
 
 ![Salon]({{ site.url }}{{ site.baseurl }}/assets/living-001.jpg)
 ![Salon]({{ site.url }}{{ site.baseurl }}/assets/living-002.jpg)

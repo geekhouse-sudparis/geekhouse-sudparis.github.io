@@ -18,7 +18,7 @@ Bienvenue dans la chambre 00 !
 * Stationnement disponible
 * Chat 🐱 OK
 * Loyer: 537,50&#8364; (charges comprises)
-* Disponibilité: 3 Avril 2022
+* Disponibilité: actuellement occupée
 
 **Inscription:**
 

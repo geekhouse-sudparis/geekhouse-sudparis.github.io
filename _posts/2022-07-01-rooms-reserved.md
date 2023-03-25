@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Toutes les chambres sont réservées pour l'année 2022-2023 !"
+title: "Toutes les chambres sont désormais réservées"
 date:   2022-07-01 13:08:00 +0200
 categories: availabilities
 ---

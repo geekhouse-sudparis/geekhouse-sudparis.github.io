@@ -20,7 +20,7 @@ permalink: /faq/
 # Quels sont les moyens de transport à proximité ?
 
 <blockquote style="color: #555; border-left-color: #555">
-  <p>Juste au pied de la Geek House se trouve un arrêt de bus pour les lignes 184, 186, 131, 286, à 500 mètres se trouve la ligne 192.</p>
+  <p>Juste au pied de la Geek House se trouve un arrêt de bus pour les lignes 186, 131, 286, à 500 mètres se trouve les lignes 184 et 192.</p>
   <p>Ces lignes de bus permettent de rejoindre la ligne 7 ou le RER B.</p>
 </blockquote>
 

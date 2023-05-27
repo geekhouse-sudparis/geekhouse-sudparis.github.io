@@ -27,7 +27,7 @@ permalink: /faq/
 # Combien de gens vivent dans la Geek House Sud Paris ?
 
 <blockquote style="color: #555; border-left-color: #555">
-  <p>La Geek House Sud Paris peut accueillir jusqu'à 3 résidents.</p>
+  <p>La Geek House Sud Paris peut accueillir jusqu'à 4 résidents.</p>
 </blockquote>
 
 # Combien coûte le loyer ?

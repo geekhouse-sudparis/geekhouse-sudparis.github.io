@@ -16,11 +16,11 @@ Bienvenue dans la chambre 01 !
 * Surface de la chambre: 10.04&#13217;
 * Surface du salon: 26.85&#13217;
 * Cuisine équipée, lave-linge, sèche-linge, baignoire, douche, 2 WC, balcon
-* TV 65", abonnement Prime video
+* TV 65"
 * Stationnement disponible
 * Chat 🐱 OK
 * Loyer: 537,50&#8364; (charges comprises)
-* Disponibilité: actuellement occupée
+* Disponibilité: Disponible à partir du 1er Juillet 2023
 
 **Inscription:**
 

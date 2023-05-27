@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos
+title: L'appartement
 permalink: /about/
 ---
 
@@ -12,7 +12,7 @@ La Geek House Sud Paris est gérée par [n-studio](https://github.com/n-studio),
 
 Elle est située à Chevilly-Larue, tout prêt de Villejuif et Kremlin-Bicêtre, ce qui lui donne un emplacement idéal pour les étudiants d'EFREI, Epita, Epitech.
 
-La Geek House Sud Paris ouvre ses portes en Mars 2020 et pourra accueillir jusqu'à 3 nouveaux résidents.
+La Geek House Sud Paris ouvre ses portes en Mars 2020 et pourra accueillir jusqu'à 4 résidents.
 
 [Réservez votre chambre ou demandez plus d'info](/home/contact)
 

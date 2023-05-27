@@ -10,7 +10,7 @@ La Geek House Sud Paris est à la recherche de nouveaux résidents.
 
 L'appartement est équipé d'une tv 65 pouces, d'autres équipements Hi-Tech peuvent être fournis à la demande !
 
-L'appartement dispose d'une cuisine, d'un salon, de 3 chambres, de 2 salles de bain et 2 WC.
+L'appartement dispose d'une cuisine, d'un salon, de 4 chambres, de 2 salles de bain et 2 WC.
 
 Chaque chambre dispose d'un lit double ou de 2 lits simples.
 
@@ -18,28 +18,34 @@ La GeekHouse est située juste à côté d'un arrêt de bus qui vous emmènera a
 
 ![Plan]({{ site.url }}{{ site.baseurl }}/assets/plan.png)
 
-# Chambre 00
+# &middot; Chambre 00 (9,6m&#178;)
 
-[Actuellement occupée](/home/room-00)
+[Plus d'info - Disponible à partir du 1er Juillet 2023](/home/room-00)
 ![Room 00]({{ site.url }}{{ site.baseurl }}/assets/room00-001.jpg)
 
-# Chambre 01
+# &middot; Chambre 01 (10m&#178;)
 
-[Actuellement occupée](/home/room-01)
+[Plus d'info - Disponible à partir du 1er Juillet 2023](/home/room-01)
 ![Room 01]({{ site.url }}{{ site.baseurl }}/assets/room01-001.jpg)
 
-# Chambre 02
+# &middot; Chambre 02 (10,6m&#178;)
 
-[Actuellement occupée](/home/room-02)
+[Plus d'info - Disponible à partir du 1er Juillet 2023](/home/room-02)
 ![Room 02]({{ site.url }}{{ site.baseurl }}/assets/room02-001.jpg)
 
-# Chambre 03
+# &middot; Chambre 03 (13m&#178;)
 
-[Actuellement occupée](/home/room-03)
+[Plus d'info - Disponible à partir du 1er Juillet 2023](/home/room-03)
 
 # Réservation
 
 [Réservez votre chambre ou demandez plus d'info](/home/contact)
+
+# Visite virtuelle (2021)
+
+<iframe src="https://www.youtube.com/embed/k5sfGEz-QG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:640px;height:360px;margin-bottom:40px"></iframe>
+
+# Présentation vidéo (2019)
 
 <div style="max-width: 500px;max-height:500px">
   <div style="position:relative;padding-top:100%;">

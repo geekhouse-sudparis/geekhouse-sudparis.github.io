@@ -14,6 +14,7 @@ Elle est située à Chevilly-Larue, tout prêt de Villejuif et Kremlin-Bicêtre,
 
 Transports en commun :
 * Bus 131, 186, 286, 192, 184 (à 2 min à pied)
+* Métro 14 L'Hay-les-Roses (à 15 min en bus / 23 min à pied)
 * Métro 7 Villejuif Louis Aragon (à 20 min en bus)
 * Métro 7 Porte d'Italie (à 28 min en bus)
 * RER B Bourg-la-Reine (à 18 min en bus)

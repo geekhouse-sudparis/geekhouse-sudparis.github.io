@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 4 chambres disponibles à partir du 1er Juillet 2023 !
+title: 1 chambres disponible à partir du 15 Juillet 2024 !
 ---
 
 Venez emménager dans la **Geek House Sud Paris** !

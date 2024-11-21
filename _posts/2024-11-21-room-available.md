@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1 chambres disponible le 15 Juillet 2024 !"
+title: "1 chambres disponible en Janvier 2025 !"
 date:   2024-11-21 14:32:00 +0200
 categories: availabilities
 ---

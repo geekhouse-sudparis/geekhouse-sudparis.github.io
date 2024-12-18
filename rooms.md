@@ -8,7 +8,7 @@ permalink: /rooms/
 
 La Geek House Sud Paris est à la recherche de nouveaux résidents.
 
-L'appartement est équipé d'une tv 65 pouces, d'autres équipements Hi-Tech peuvent être fournis à la demande !
+L'appartement est équipé d'une TV 65 pouces, d'autres équipements Hi-Tech peuvent être fournis à la demande !
 
 L'appartement dispose d'une cuisine, d'un salon, de 4 chambres, de 2 salles de bain et 2 WC.
 
@@ -20,7 +20,7 @@ La GeekHouse est située juste à côté d'un arrêt de bus qui vous emmènera a
 
 # &middot; Chambre 00 (9,6m&#178;)
 
-[Plus d'info - Actuellement occupée](/home/room-00)
+[Plus d'info - Disponible à partir de Février 2025](/home/room-00)
 ![Room 00]({{ site.url }}{{ site.baseurl }}/assets/room00-001.jpg)
 
 # &middot; Chambre 01 (10m&#178;)

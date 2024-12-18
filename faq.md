@@ -14,7 +14,7 @@ permalink: /faq/
 # Où se situe la Geek House Sud Paris ?
 
 <blockquote style="color: #555; border-left-color: #555">
-  <p>La Geek House Sud Paris se situe entre Chevilly-Larue (94550) et Haÿ-les-Roses (94240)</p>
+  <p>La Geek House Sud Paris se situe entre Chevilly-Larue (94550) et L'Haÿ-les-Roses (94240)</p>
 </blockquote>
 
 # Quels sont les moyens de transport à proximité ?

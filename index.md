@@ -3,8 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 1 chambres disponible à partir du 15 Juillet 2024 !
+title: 2 chambres disponibles à partir de Janvier 2025 !
 ---
+
+Vous êtes étudiant(e) ou jeune actif(ve) et vous cherchez une colocation sympa et conviviale ?
+Vous êtes passionné(e) par la culture Geek et Otaku (comics, manga, animé, cinéma, jeux vidéo, jeux de plateau) ?
 
 Venez emménager dans la **Geek House Sud Paris** !
 

@@ -64,4 +64,4 @@ permalink: /faq/
 
 # D'autres questions ?
 
-Vous avez d'autres questions ? [Contactez-nous](/home/contact).
+Vous avez d'autres questions ? [Contactez-nous](/contact).

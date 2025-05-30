@@ -22,7 +22,7 @@ Transports en commun :
 
 La Geek House Sud Paris ouvre ses portes en Mars 2020 et peut accueillir jusqu'à 4 résidents.
 
-[Réservez votre chambre ou demandez plus d'info](/home/contact)
+[Réservez votre chambre ou demandez plus d'info](/contact)
 
 ![Salon]({{ site.url }}{{ site.baseurl }}/assets/living-001.jpg)
 ![Salon]({{ site.url }}{{ site.baseurl }}/assets/living-002.jpg)

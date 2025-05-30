@@ -35,7 +35,7 @@ permalink: /faq/
 ## Pour 4 locataires (colocation solidaire)
 
 <blockquote style="color: #555; border-left-color: #555">
-  <p>Si vous venez vivre à 4 dans la Geek House, le loyer est de 575€ chacun, charges comprises (chauffage central + eau).</p>
+  <p>Si vous venez vivre à 4 dans la Geek House, le loyer est de 587,50€ chacun, charges comprises (internet + Netflix + Prime Video + chauffage central + eau).</p>
 </blockquote>
 
 # Puis-je apporter mon animal de compagnie ?

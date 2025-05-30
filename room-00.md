@@ -17,8 +17,8 @@ Bienvenue dans la chambre 00 !
 * TV 65", PS5, Switch, Internet FTTH, abonnement Netflix, abonnement Prime video
 * Stationnement disponible
 * Chat 🐱 OK
-* Loyer: 575&#8364; (charges comprises)
-* Disponibilité: Disponible vers Février 2025
+* Loyer: 587,50&#8364; (internet & charges comprises)
+* Disponibilité: Actuellement occupée
 
 **Inscription:**
 

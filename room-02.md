@@ -17,8 +17,8 @@ Bienvenue dans la chambre 02 !
 * TV 65", PS5, Switch, Internet FTTH, abonnement Netflix, abonnement Prime video
 * Stationnement disponible
 * Chat 🐱 OK
-* Loyer: 575&#8364; (charges comprises)
-* Disponibilité: Disponible vers Janvier 2025
+* Loyer: 587,50&#8364; (charges comprises)
+* Disponibilité: Disponible à partir de Juillet 2025
 
 **Inscription:**
 

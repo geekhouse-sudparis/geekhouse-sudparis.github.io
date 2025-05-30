@@ -21,7 +21,7 @@ layout: default
   var path = window.location.pathname;
   if (path.startsWith("/home")) {
     // Remove the duplicate /home/ from the path
-    var newPath = path.replace("/home", "/");
+    var newPath = path.replace("/home", "");
     window.location.href = newPath;
   }
 </script>

@@ -11,7 +11,9 @@ Vous êtes passionné(e) par la culture Geek et Otaku (comics, manga, animé, ci
 
 Venez emménager dans la **Geek House Sud Paris** !
 
-La Geek House est une colocation pour Geeks, située à Chevilly-Larue, tout prêt de Villejuif et Kremlin-Bicêtre, emplacement idéal pour les étudiants d'EFREI, Epita, Epitech, EPF, SupBiotech, ESTP, ESITC et Université Paris Saclay.
+La Geek House est une colocation pour Geeks, située à Chevilly-Larue, tout prêt de Villejuif et Kremlin-Bicêtre, emplacement idéal pour les étudiants d'EFREI, Epita, Epitech, EPF, SupBiotech, Inalco, ESTP, ESITC et Université Paris Saclay.
+
+Si vous êtes étudiant et geek, vous venez de trouver la colocation étudiante dont vous rêviez !
 
 # Visite virtuelle (2021)
 

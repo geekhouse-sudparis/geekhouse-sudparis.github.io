@@ -62,6 +62,12 @@ permalink: /faq/
   </ul>
 </blockquote>
 
+# J'ai aussi vu votre annonce sur Studapart, dois-je réserver en passant par eux ?
+
+<blockquote style="color: #555; border-left-color: #555">
+  <p>Studapart propose une garantie (payante) pour les étudiants étrangers qui n'auraient pas de garants en France. Si vous avez déjà un garant en France, il n'est pas du tout nécessaire de passer par Studapart. Contactez-nous simplement par e-mail.</p>
+</blockquote>
+
 # D'autres questions ?
 
 Vous avez d'autres questions ? [Contactez-nous](/contact).

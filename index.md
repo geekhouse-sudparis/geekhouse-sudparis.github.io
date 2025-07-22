@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 2 chambres disponibles à partir de Juillet et Septembre 2025 !
+title: La colocation Geek ultime au Sud de Paris
 ---
 
 Vous êtes étudiant(e) ou jeune actif(ve) et vous cherchez une colocation sympa et conviviale ?

@@ -47,6 +47,14 @@ header_pages:
 
 show_excerpts: true
 
+# minima 2.5 uses Sass syntax that Dart Sass deprecates; the warnings come from the theme, not this site.
+sass:
+  style: compressed
+  sourcemap: never
+  quiet_deps: true
+  silence_deprecations:
+    - import
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

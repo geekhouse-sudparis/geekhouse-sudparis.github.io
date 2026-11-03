@@ -1,66 +1,42 @@
 ---
 layout: page
 title: Les chambres
+description: Les 4 chambres de la Geek House Sud Paris, colocation étudiante à Chevilly-Larue (94) - surfaces, photos, plan et disponibilités. 587,50 € par mois, internet et charges comprises.
 permalink: /rooms/
 ---
 
-# Présentation
+## Présentation
 
 La Geek House Sud Paris est à la recherche de nouveaux résidents.
 
 L'appartement est équipé d'une TV 65 pouces, d'autres équipements Hi-Tech peuvent être fournis à la demande !
 
-L'appartement dispose d'une cuisine, d'un salon, de 4 chambres, de 2 salles de bain et 2 WC.
+L'appartement dispose d'une cuisine, d'un salon, d'une salle PC, de 4 chambres, de 2 salles de bain et 2 WC.
 
 Chaque chambre dispose d'un lit double ou de 2 lits simples.
 
 La GeekHouse est située juste à côté d'un arrêt de bus qui vous emmènera au campus d'Epitech en 25 minutes, et à l'EFREI en 23 minutes.
 
-![Plan]({{ site.url }}{{ site.baseurl }}/assets/plan.png)
+![Plan de la Geek House Sud Paris : salon, cuisine, salle PC, 4 chambres, 2 salles de bain et 2 WC]({{ "/assets/plan.png" | relative_url }}){: loading="lazy"}
 
-<br>
+{% assign rooms = site.pages | where: "layout", "room" | sort: "path" %}
+{% for room in rooms %}
+## {{ room.room_name }} ({{ room.area | append: "" | replace: ".", "," }} m²)
 
-# &middot; Chambre 00 (9,64m&#178;)
+[Plus d'info - {% include availability.html room=room %}]({{ room.url | relative_url }})
+{% if room.photos.size > 0 %}
+![{{ room.photos.first.alt }}]({{ room.photos.first.src | relative_url }}){: loading="lazy"}
+{% endif %}
+{% endfor %}
 
-[Plus d'info - Actuellement occupée](/room-00)
-![Room 00]({{ site.url }}{{ site.baseurl }}/assets/room00-001.jpg)
+## Réservation
 
-<br>
+[Réservez votre chambre ou demandez plus d'info](/contact/)
 
-# &middot; Chambre 01 (10,64m&#178;)
+## Visite virtuelle (2021)
 
-[Plus d'info - Disponible à partir du 26 décembre 2026](/room-01)
-![Room 01]({{ site.url }}{{ site.baseurl }}/assets/room01-001.jpg)
+{% include youtube.html id="k5sfGEz-QG0" title="Visite virtuelle de la Geek House Sud Paris (2021)" %}
 
-<br>
+## Présentation vidéo (2019)
 
-# &middot; Chambre 02 (10,04m&#178;)
-
-[Plus d'info - Actuellement occupée](/room-02)
-![Room 02]({{ site.url }}{{ site.baseurl }}/assets/room02-001.jpg)
-
-<br>
-
-# &middot; Chambre 03 (12,97m&#178;)
-
-[Plus d'info - Actuellement occupée](/room-03)
-![Room 03]({{ site.url }}{{ site.baseurl }}/assets/room03-001.jpg)
-
-<br>
-
-# Réservation
-
-[Réservez votre chambre ou demandez plus d'info](/contact)
-
-# Visite virtuelle (2021)
-
-<iframe src="https://www.youtube.com/embed/k5sfGEz-QG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:640px;height:360px;margin-bottom:40px"></iframe>
-
-# Présentation vidéo (2019)
-
-<div style="max-width: 500px;max-height:500px">
-  <div style="position:relative;padding-top:100%;">
-    <iframe src="https://www.youtube.com/embed/GCVLzFfNMoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
+{% include youtube.html id="GCVLzFfNMoA" title="Présentation vidéo de la Geek House Sud Paris (2019)" ratio="100%" max_width="500px" %}

@@ -21,7 +21,8 @@
 title: Geek House Sud Paris
 email: geekhouse.sudparis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Geek House Sud Paris 1 - Colocation pour Geeks sur Paris. Appartement pour étudiants et jeunes travailleurs partageant une même passion.
+  Colocation étudiante pour geeks à Chevilly-Larue (94), près de Villejuif et du Kremlin-Bicêtre.
+  4 chambres à 587,50 € par mois, internet et charges comprises.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geekhouse-sudparis.ota9.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: geekhouseparis1
@@ -29,7 +30,17 @@ facebook_username: geekhouseparis1
 github_username: geekhouse-sudparis
 instagram_username: geekhouseparis1
 discord_username: 9Tz3maG
-lang: fr_FR
+lang: fr-FR
+twitter:
+  username: geekhouseparis1
+  card: summary_large_image
+social:
+  name: Geek House Sud Paris
+  links:
+    - https://twitter.com/geekhouseparis1
+    - https://www.instagram.com/geekhouseparis1
+    - https://www.facebook.com/geekhouseparis1
+    - https://github.com/geekhouse-sudparis
 google_site_verification: tuDmy-_tzqzn7giGGC5BNqc_Jdzz9mXq2z-UR2aUUOA
 
 # Build settings
@@ -38,6 +49,18 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-llms
+  - jekyll-structured-content
+
+# jekyll-llms: /llms.txt indexes page descriptions and links to a Markdown copy of each page.
+llms:
+  exclude:
+    - /README.md
+    - /404.html
+    - /assets/**
+    - /feed.xml
+    - /sitemap.xml
+    - /robots.txt
 
 header_pages:
   - rooms.md
@@ -46,6 +69,12 @@ header_pages:
   - contact.md
 
 show_excerpts: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/living-001.jpg
 
 # minima 2.5 uses Sass syntax that Dart Sass deprecates; the warnings come from the theme, not this site.
 sass:

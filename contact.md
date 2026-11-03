@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: Contactez la Geek House Sud Paris, colocation étudiante à Chevilly-Larue, par email ou sur Twitter pour visiter ou réserver une chambre.
 permalink: /contact/
 ---
 

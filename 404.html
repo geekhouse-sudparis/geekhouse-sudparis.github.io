@@ -1,6 +1,7 @@
 ---
 permalink: /404.html
 layout: default
+sitemap: false
 ---
 
 <style type="text/css" media="screen">
@@ -22,8 +23,6 @@ layout: default
   if (path.startsWith("/home/") && path !== "/home/") {
     var newPath = path.replace("/home/", "/");
     window.location.href = newPath;
-  } else {
-    window.location.href = "/";
   }
 </script>
 
@@ -32,4 +31,5 @@ layout: default
 
   <p><strong>Page non trouvée :(</strong></p>
   <p>La page demandée n'a pas pu être trouvée.</p>
+  <p><a href="{{ "/" | relative_url }}">Retour à l'accueil</a> · <a href="{{ "/rooms/" | relative_url }}">Les chambres</a></p>
 </div>

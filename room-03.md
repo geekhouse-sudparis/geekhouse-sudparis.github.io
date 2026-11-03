@@ -1,23 +1,14 @@
 ---
-layout: page
-title: Chambre 03
+layout: room
+title: Chambre 03 – Colocation étudiante à Chevilly-Larue
+description: Chambre 03 de 12,97 m², la plus grande de la Geek House Sud Paris, colocation étudiante à Chevilly-Larue près de Villejuif. 587,50 € par mois, internet et charges comprises.
 permalink: /room-03/
+room_name: Chambre 03
+area: 12.97
+rent: "587.50"
+plan: /assets/plan-room03.png
+photos: []
 ---
 Bienvenue dans la chambre 03 !
 
-*Photos à venir*
-
-**Info:**
-
-* Surface de la chambre: 12.97&#13217;
-* Surface du salon: 26.85&#13217;
-* Cuisine équipée, lave-linge, sèche-linge, baignoire, douche, 2 WC, balcon
-* TV 65", PS5, Switch, Internet FTTH, abonnement Netflix, abonnement Prime video
-* Stationnement disponible
-* Chat 🐱 OK
-* Loyer: 587,50&#8364; (internet & charges comprises)
-* Disponibilité: Actuellement occupée
-
-**Inscription:**
-
-Envoyez-nous un email à [geekhouse.sudparis@gmail.com](mailto:geekhouse.sudparis@gmail.com?subject=[GeekHouse] Inscription Chambre 03) ou un DM à [@GeekHouseParis1](https://twitter.com/GeekHouseParis1)
+{% include room-details.md room=page %}

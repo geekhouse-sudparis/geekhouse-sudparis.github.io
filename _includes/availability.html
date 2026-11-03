@@ -1,0 +1,7 @@
+{%- assign months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," -%}
+{%- if include.room.available_from -%}
+  {%- assign month_index = include.room.available_from | date: "%-m" | minus: 1 -%}
+  Disponible à partir du {{ include.room.available_from | date: "%-d" }} {{ months[month_index] }} {{ include.room.available_from | date: "%Y" }}
+{%- else -%}
+  Actuellement occupée
+{%- endif -%}

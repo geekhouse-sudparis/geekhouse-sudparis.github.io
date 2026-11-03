@@ -29,7 +29,7 @@ La GeekHouse est située juste à côté d'un arrêt de bus qui vous emmènera a
 
 # &middot; Chambre 01 (10,64m&#178;)
 
-[Plus d'info - Actuellement occupée](/room-01)
+[Plus d'info - Disponible à partir du 26 décembre 2026](/room-01)
 ![Room 01]({{ site.url }}{{ site.baseurl }}/assets/room01-001.jpg)
 
 <br>
